@@ -1,0 +1,38 @@
+label {
+    display: block;
+    padding-bottom: 8px;
+    font-weight: 600;
+    font-style: normal;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+
+}
+
+form {
+    margin: auto;
+    width: 500px;
+    border: 2px solid white;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(8, 5, 5, 0.75)
+}
+
+input{
+    margin-bottom: 8px;
+    height: 25px;
+
+}
+
+body{
+    background-image:url('https://static.vecteezy.com/system/resources/thumbnails/019/799/598/small/businessman-hand-touch-with-code-html-and-programming-on-screen-laptop-programmer-development-computer-code-web-design-coding-technology-in-software-digital-software-technology-development-iot-photo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+input[type='submit']{
+    width:100px;
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
+
